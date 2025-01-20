@@ -1,2 +1,16 @@
-# Artificial-Intelligence-and-Machine-Learning-Internship-project-
-"AI/ML Internship Project: Exploring real-world applications of Artificial Intelligence and Machine Learning through model development, data analysis, and problem-solving."
+Artificial Intelligence and Machine Learning Project
+
+Exploring the applications of AI and ML in real-world problems. This project showcases my work as an intern, where I developed and implemented various AI and ML models and algorithms.
+
+Features
+
+- AI and ML model development
+- Data analysis and visualization
+- Real-world problem solving
+
+Technologies Used
+
+- Python
+- TensorFlow
+- PyTorch
+- Scikit-learn
